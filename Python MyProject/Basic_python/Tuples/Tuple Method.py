@@ -1,0 +1,5 @@
+thistuple = (1,2,3,5,6,7,8,5,"esu")
+x=thistuple.count(5)
+x1=thistuple.index(5)
+print(x)
+print(x1)
